@@ -1,4 +1,0 @@
-#Wed Mar 30 14:27:37 IST 2022
-base.0=D\:\\Export KB\\Export_circular_sample\\export_pie_chart\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex

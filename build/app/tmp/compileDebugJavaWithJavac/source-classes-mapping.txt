@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-com/example/export_pie_chart/BuildConfig.java
- com.example.export_pie_chart.BuildConfig
