@@ -1,6 +1,6 @@
 {
-    "name": "export_pie_chart",
-    "short_name": "export_pie_chart",
+    "name": "flutter_chart_circular_export_image",
+    "short_name": "flutter_chart_circular_export_image",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
