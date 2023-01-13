@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.export_pie_chart">
+    package="com.example.flutter_chart_circular_export_image">
    <application
-        android:label="export_pie_chart"
+        android:label="flutter_chart_circular_export_image"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
